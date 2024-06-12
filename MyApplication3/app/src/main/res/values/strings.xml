@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="store_name">We Sell Seashells</string>
+    <string name="login">LOGIN</string>
+    <string name="create_account">CREATE AN ACCOUNT</string>
+    <string name="back_label">BACK</string>
+    <string name="password_label">Password</string>
+    <string name="username_label">Username</string>
+    <string name="create_label">CREATE</string>
+    <string name="welcome_label">Welcome</string>
+</resources>
