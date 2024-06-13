@@ -19,3 +19,9 @@ Steps I took in this process:
 [Use Case Performance Report](UseCaseReport.pdf)
 
 [![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+
+<div align="center">
+  <a href="https://youtu.be/nYhJ4JHM77w">
+    <img src="AppPreview.png" alt="App Preview">
+  </a>
+</div>
