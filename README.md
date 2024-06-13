@@ -16,6 +16,6 @@ Steps I took in this process:
 -Delivered Final Project and Report on Test Cases.
 
 
-[Use Case Performance Report](https://youtu.be/nYhJ4JHM77w)
+[Use Case Performance Report](Robins Copy of P2 Android App Use Case-3.pdf)
 
-[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+<center>[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
