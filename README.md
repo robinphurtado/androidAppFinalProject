@@ -7,6 +7,7 @@ For the Final Project of CST 338 - Software Design at CSUMB, I designed and buil
 The App was built in Android Studio with Java for handling all application logic and user interaction and Android Room for database management.
 
 Steps I took in this process:
+
 -Designed User Interface
 -Wrote Java code for navigation between pages
 -Designed and built Database using Draw.io and MySQL
@@ -15,15 +16,11 @@ Steps I took in this process:
 -Performed Testing
 -Delivered Final Project and Report on Test Cases.
 
-
-[Use Case Performance Report](UseCaseReport.pdf)
-
 <div align="center">
   <a href="UseCaseReport.pdf">Use Case Performance Report</a>
 </div>
-
-
-
+<br>
+<br>
 <div align="center">
   <a href="https://youtu.be/nYhJ4JHM77w">
     <img src="AppPreview.png" alt="App Preview">
