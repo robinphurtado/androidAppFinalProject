@@ -10,10 +10,15 @@ Steps I took in this process:
 
 *Designed User Interface
 *Wrote Java code for navigation between pages
+
 *Designed and built Database using Draw.io and MySQL
+
 *Implemetemented Android Room for interactions between App and Database
+
 *Wrote user Acceptance Tests for possible interactions and desired behaviors
+
 *Performed Testing
+
 *Delivered Final Project and Report on Test Cases.
 
 <div align="center">
