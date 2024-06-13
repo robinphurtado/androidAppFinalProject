@@ -1,1 +1,1 @@
-[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+[![AppPreview.png] { width: 200px; }(AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
