@@ -18,7 +18,11 @@ Steps I took in this process:
 
 [Use Case Performance Report](UseCaseReport.pdf)
 
-[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+<div align="center">
+  <a href="UseCaseReport.pdf">Use Case Performance Report</a>
+</div>
+
+
 
 <div align="center">
   <a href="https://youtu.be/nYhJ4JHM77w">
