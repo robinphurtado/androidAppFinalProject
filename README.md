@@ -1,1 +1,1 @@
-[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+[![AppPreview.png](AppPreview.png =x250)](https://youtu.be/nYhJ4JHM77w)
