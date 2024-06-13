@@ -18,4 +18,4 @@ Steps I took in this process:
 
 [Use Case Performance Report](UseCaseReport.pdf)
 
-[![AppPreview.png](AppPreview.png)](https://youtu.be/nYhJ4JHM77w)
+[![AppPreview.png](AppPreview.png#center)](https://youtu.be/nYhJ4JHM77w)
